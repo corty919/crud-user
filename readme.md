@@ -14,7 +14,8 @@
 | post     | /students/edit   |         | name、age、gender、hobbies | 处理编辑用户的请求   |
 | get       | /students/delete | id      |                            | 处理删除用户信息请求 |
 
-​	![](C:\Users\86137\Desktop\1587225991(1).jpg)
+![image](https://github.com/corty919/crud-user/blob/master/public/img/1587225991(1).jpg)
+
 
 如需查看效果请自行下载
 
