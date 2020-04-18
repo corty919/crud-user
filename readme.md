@@ -14,4 +14,27 @@
 | post     | /students/edit   |         | name、age、gender、hobbies | 处理编辑用户的请求   |
 | get       | /students/delete | id      |                            | 处理删除用户信息请求 |
 
+​	![](C:\Users\86137\Desktop\1587225991(1).jpg)
+
+如需查看效果请自行下载
+
+### 使用
+
+- 下载代码
+
+```
+git clone git@github.com:corty919/crud-user.git
+```
+
+- 下载依赖包
+
+```
+npm install 
+```
+
+- 运行(运行端口号为：3000)
+
+```
+node app.js
+```
 
